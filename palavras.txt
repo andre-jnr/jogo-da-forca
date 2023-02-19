@@ -1,0 +1,40 @@
+selo;Sem sair do seu cantinho, eh capaz de viajar ao redor do mundo.
+gelo;Eh feito de agua, mas se for colocado dentro da agua morrera
+vela;Eh alta quando jovem e baixinha quando fica velha. Alem disso, eh rapida quando eh magra e lenta quando e gorda.
+papel;Pode ser atirado do alto de um predio e ficar super bem. Mas quando eh colocado na agua morre pouco tempo depois.
+toalha;Fica cada vez mais molhado quanto mais a gente seca.
+ser humano;Anda sobre quatro membros de manha, dois a tarde e tras a noite; pois ele engatinha quando eh bebe, anda sobre duas pernas quando cresce e usa bengala quando fica velhinho.
+cebola;Voce tira a minha pele. Eu nao choro. Voce, sim.
+resfriado;voce pode pegar, mas nao pode jogar.
+respiracao;Eh mais leve que uma pluma, mas nem o homem mais forte do mundo pode segura-la por mais de um minuto.
+letra m;Ocorre uma vez a cada minuto, duas vezes a cada momento, mas jamais a cada quinhentos anos.
+idade;Sobe, sobe, sobe e jamais desce.
+relogio;Se voce olhar para o meu rosto, nao encontrara treze em nenhum lugar. Quem eu sou?
+amanha;Esta sempre a caminho, mas nunca chega.
+mapa;tem cidades, mas nao tem casas. Tem montanhas, mas nao tem arvores. Tem agua, mas nao tem peixe.
+seu nome;Pertence a voca, mas as outras pessoas usam mais do que voce.
+fogo;Nao eh vivo, mas cresce. Nao tem pulmoes, mas precisa de ar. Nao tem boca, mas a agua pode mata-lo.
+ovo;Eh mais util quando eh quebrado.
+carvao;Eh preto quando voce o compra, vermelho quando voce o usa e cinza quando voce o joga fora.
+dado;Tem 6 faces, mas nao usa maquiagem. Tem tambem 21 olhos, mas nao pode ver.
+espelho;Faz duas pessoas a partir de uma so.
+memoria;Voce me tem hoje e amanha voce me tera ainda mais. Conforme o tempo passa, eu nao sou nada facil de guardar. Nao ocupo nenhum espaco, mas estou sempre num unico lugar. Eu sou o que voce viu, nao o que voce ve.
+luvas;Elas nao tem carne, penas, escamas ou ossos. Mas tem dedos proprios.
+agua;Sempre estou dentro de voce, as vezes em cima. Se eu cercar voce completamente, posso te matar.
+buraco;Quanto mais voce tira, maior eu fico.
+esponja;Eh cheio de furinhos, mas ainda assim consegue segurar a agua.
+melancia;Havia uma grande casa verde. Dentro dela, havia uma casa branca. Dentro da casa branca, uma casa vermelha. E dentro da casa vermelha um monte de bebezinhos. Quem eu era?
+fumaca;Nao tem pes, maos ou asas, mas pode subir aos ceus.
+sabao;Nao eh roupa, mas pode cobrir seu corpo. Quanto mais eh usado, mais fino fica.
+futuro;Esta sempre na sua frente, mas nao pode ser visto?
+escuridao;Quanto mais disso ha, menos voce ve.
+ancora;Jogamos fora quando estamos em necessidade e tomamos de volta quando nao precisamos?
+acelga;Uma planta que nao enxerga?
+pano de chao;Quanto mais limpo, mais sujo esta?
+letra r;Esta no inicio da rua, no final do lar e no meio da cara?
+pato fica viuvo;Acontece quando um leao senta na pata?
+estacionamento;Possui inumeras rodas, mas nunca sai do lugar?
+almoço e jantar; Duas coisas que você nao pode comer no cafe da manha?
+promessa;Pode ser quebrado, mas nunca segurado?
+segredo;Quando voce tem, jamais partilha. Quando partilha, perde imediatamente?
+amor;Nao pode ser comprado, mas pode ser roubado. Nao tem valor para uma pessoa sozinha, mas eh inestimavel para duas.
