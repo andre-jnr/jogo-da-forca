@@ -32,15 +32,15 @@ Digite uma letra:
   - Aceitar apenas letras.
   - Não aceitar letras/ palavras já digitadas.
   - Não aceitar caracter acentuado.
-  - Não aceita a letra "ç"
+  - Não aceitar a letra "ç"
 - [x] Implementar cada regra de jogo.
 - [x] Mostrar palavra no final.
-- [x] Criar loop para o jogo continuar até acerta a palavra ou até acabar a vida.
+- [x] Criar loop para o jogo continuar até acertar a palavra ou até acabar a vida.
 
 # Ideias para atualização
 
 - [ ] Poder advinha quantas palavras quiser.
-  - No final do programa, mostrar percas, acertos e palavras acertadas e erradas.
+  - No final do programa, mostrar perdas, acertos e palavras acertadas e erradas.
 - [ ] Poder jogar com mais pessoas.
   - Poder escolher entre os demais jogadores, se eles tentam advinhar a mesma palavra ou outra.
   - 6 vidas para cada jogador.
